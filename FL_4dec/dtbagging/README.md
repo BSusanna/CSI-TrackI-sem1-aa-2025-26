@@ -1,7 +1,7 @@
-# randomforest: A Flower / sklearn app
+# XGBoost: XGBoost Bagging / Cyclic
 
 ## Install dependencies and project
-Create the virtualenvironment.
+Create the virtual environment.
 
 The dependencies are listed in the `pyproject.toml` and you can install them as follows:
 
@@ -11,7 +11,7 @@ pip install -e .
 
 ## Run
 
-In the `randomforest` directory:
+In the `dtbagging` directory:
 
 ```bash
 python3 server/server_flwr.py
